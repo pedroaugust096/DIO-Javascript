@@ -18,5 +18,3 @@ poteCafe + ' - ' +
 poteAcucar + ' - ' + 
 poteBiscoito
 )
-
-console.log('Rwada')
