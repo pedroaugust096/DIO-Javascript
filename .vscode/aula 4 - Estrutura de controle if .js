@@ -19,5 +19,5 @@ let itensComprados = ''
 if(possuiOvos){
     itensComprados = 'Leite'
 }
-
 console.log('item comprado: ' + itensComprados) // --> Está fora do escopo do if
+
