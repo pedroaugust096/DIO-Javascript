@@ -14,3 +14,5 @@ for (i = 1; i <= 10; i++){
 }
 
 console.log(pontosDeVida + ' pontos totais')
+
+// Obs.: Se atentar ao valor escolhido para início do contador. Dependendo do valor utilizado (se começar como 0 ou como 1), o for pode ocorrer uma vez a mais do que o esperado. Geralmente isso ocorre quando o contador se inicia pelo valor zero.
