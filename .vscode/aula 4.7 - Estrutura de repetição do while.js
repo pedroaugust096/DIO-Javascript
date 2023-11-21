@@ -12,10 +12,11 @@ while(contador < 3)
 
 // Exemplo:
 
-let numero;
+const prompt = require('prompt-sync')({sigint: true});
+let numero
 
 do {
-  numero = prompt('Digite um número entre 1 e 10:');
+  numero = prompt('Digite um número entre 1 e 10: ');
 } while(numero < 1 || numero > 10);
 
 console.log(`Você digitou o número ${numero}.`);
