@@ -1,0 +1,37 @@
+Resumo das aulas sobre Cultura Ágil
+
+Agilidade x Rapidez
+
+O conceito de rapidez se relaciona à velocidade em que algo é executado. Já a agilidade diz respeito à capacidade de ter facilidade, por exemplo, no aprendizado, na melhoria contínua e – principalmente – na adaptação. Por exemplo, quando um trem bala é comparado a um guepardo, pode-se dizer que o trem bala é mais rápido que o animal, uma vez que sua velocidade máxima atinge facilmente os 200km/h, enquanto a do guepardo pode chegar, no máximo, aos 130km/h. Porém, o guepardo é mais ágil que o trem bala, uma vez que ele consegue se adaptar melhor às situações. Exemplificando, caso sua presa mude de rota, o guepardo é capaz de corrigir sua rota enquanto mantém sua alta velocidade, além de conseguir acelerar e desacelerar com mais facilidade, pontos estes que o tornam mais ágil que um trem bala.
+
+Aplicando esses conceitos à realidade de uma equipe, é possível afirmar que um time veloz é um time que entrega tarefas e resultados com alta rapidez; porém, pode ser uma equipe estressada e que possui dificuldade em enxergar ou materializar o valor de cada entrega. Já uma equipe ágil é aquela capaz de realizar suas tarefas com eficiência, sendo capaz de bater metas mais palpáveis e mais bem embasadas, sendo capaz de manter uma comunicação mais assertiva e manter a consciência em relação ao fluxo de tarefas e à importância de cada uma delas.
+
+Manifesto Ágil
+
+Foi um documento criado em fevereiro de 2001 por 17 profissionais os quais já praticavam métodos ágeis. Eles perceberam que, apesar de cada um deles utilizarem abordagens e métodos diferentes, todos eles compartilhavam as mesmas bases e fundamentos. Este manifesto baseia-se em 4 valores e 12 princípios.
+
+Valores do Manifesto Ágil
+
+1. Indivíduos e Interações – princípio baseado em valorizar mais as pessoas e a interação entre elas do que os processos e ferramentas propriamente ditos.
+
+2. Software em funcionamento – a entrega de um produto que funcione da maneira correta e atenda o escopo dos clientes tem mais valor que documentações e materializações de reuniões e entregas de papeis ou relatórios sobre o produto, por exemplo.
+
+3. Responder a mudanças – ter a capacidade de ser ágil, se adaptar aos problemas e à mudança de cenários.
+
+4. Colaboração com o cliente – manter o cliente participando e atualizado a respeito do desenvolvimento do produto, mantendo um feedback entre cliente e desenvolvedores ajuda a manter o produto a trazer um resultado que “acerte o alvo”, ou seja, que atenda às expectativas e necessidades do cliente. Isto é mais importante que apenas negociar contratos.
+
+SCRUM
+
+Trata-se do Modelo Ágil no gerenciamento de projetos. Ele é baseado em ciclos de entregas menores, ao contrário do modelo tradicional, que começa a entregar seu valor apenas na última fase do projeto (fase de entrega). O scrum é dividido em ciclos, e a cada fim de ciclo – denominado sprint – existe uma entrega e, com isso, parte do valor a ser entregue é realizada. Permite uma gestão interativa, ou seja – em ciclos, e incremental – o produto vai sendo incrementado ao longo de cada entrega em cada fim de clico (sprint). Um dos pontos mais importantes nesta abordagem é o feedback do cliente em relação às entregas parciais, pois isso traz aos desenvolvedores uma noção mais clara de que seu produto está cumprindo ou não os interesses e metas do cliente, e também traz a possibilidade do cliente indicar pontos de possíveis melhorias em relação ao produto.
+
+Definição de Scrum: é um framework leve que ajuda pessoas, times e organizações a gerar valor por meio de soluções adaptativas para problemas complexos (Scrum Guide, Nov. 2020).
+
+É baseado em empirismo e lean thinking. Empirismo – promoção de ciclo de aprendizados e tomadas de decisão baseados o que é observado. Lean thinking – preza a melhoria contínua e foca na redução dos desperdícios (seja de variáveis, de tempo, de processos, entre outros).
+
+Tem como pilares o TIA – Transparência, Inspeção e Adaptação.
+
+Diferença entre framework e metodologia
+
+Framework – é uma espécie de esqueleto, que deixa bem claro o que deve ser feito, o porquê aquele projeto/processo/ação deve ser feito, mas o ‘como deve ser feito’ fica intencionalmente incompleto.
+
+Metodologia – é uma receita de bolo. É basicamente um framework que, além do ‘o que’ e do ‘porquê’, traz também o ‘como deve ser feito’ de forma detalhada, passo a passo.
