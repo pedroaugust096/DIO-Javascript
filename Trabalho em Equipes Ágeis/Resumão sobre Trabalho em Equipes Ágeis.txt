@@ -26,7 +26,7 @@ Trata-se do Modelo Ágil no gerenciamento de projetos. Ele é baseado em ciclos de
 
 Definição de Scrum: é um framework leve que ajuda pessoas, times e organizações a gerar valor por meio de soluções adaptativas para problemas complexos (Scrum Guide, Nov. 2020).
 
-É baseado em empirismo e lean thinking. Empirismo – promoção de ciclo de aprendizados e tomadas de decisão baseados o que é observado. Lean thinking – preza a melhoria contínua e foca na redução dos desperdícios (seja de variáveis, de tempo, de processos, entre outros).
+É baseado em empirismo e lean thinking. Empirismo – promoção de ciclo de aprendizados e tomadas de decisão baseados no que é observado. Lean thinking – preza a melhoria contínua e foca na redução dos desperdícios (seja de variáveis, de tempo, de processos, entre outros).
 
 Tem como pilares o TIA – Transparência, Inspeção e Adaptação.
 
@@ -35,3 +35,15 @@ Diferença entre framework e metodologia
 Framework – é uma espécie de esqueleto, que deixa bem claro o que deve ser feito, o porquê aquele projeto/processo/ação deve ser feito, mas o ‘como deve ser feito’ fica intencionalmente incompleto.
 
 Metodologia – é uma receita de bolo. É basicamente um framework que, além do ‘o que’ e do ‘porquê’, traz também o ‘como deve ser feito’ de forma detalhada, passo a passo.
+
+Extreme Programming (XP) – é um método ágil criado no final da década de 90 para desenvolvimento de softwares. Tem como objetivo fazer ciclos de entregas ráidos, contínuos e incrementais, para alcançar os resultados que o cliente espera.
+
+Kanban – é um dos métodos mais utilizados em empresas em todos os segmentos devido sua simplicidade e benefícios trazidos por ele. É um método que define, gerencia e melhora serviços que entregam trabalho de conhecimento, como serviços profissionais, atividades criativas e o design de produtos físicos e de software. Baseia-se no Princípio Lean, que possui a meta de gerir o controle do estoque de materiais, ou seja, equilíbrio de estoque, de forma que nem faltem e nem sobrem produtos.
+
+OKR – é um acrônimo para os 3 fundamentos deste método: Objectives, Key e Results. É um método de gestão ágil que foi criado por Andrew Grove – ex-CEO da Intel – com o propósito de simplificar a forma de encarar os principais objetivos estratégicos de uma empresa.
+
+Objectives – descrições qualitativas que mostram qual direção deverá ser seguida pela empresa;
+
+Key Results – metas, as quais vão indicar o atingimento do objetivo nesta metodologia.
+
+
