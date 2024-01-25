@@ -36,7 +36,7 @@ Framework – é uma espécie de esqueleto, que deixa bem claro o que deve ser feito
 
 Metodologia – é uma receita de bolo. É basicamente um framework que, além do ‘o que’ e do ‘porquê’, traz também o ‘como deve ser feito’ de forma detalhada, passo a passo.
 
-Extreme Programming (XP) – é um método ágil criado no final da década de 90 para desenvolvimento de softwares. Tem como objetivo fazer ciclos de entregas ráidos, contínuos e incrementais, para alcançar os resultados que o cliente espera.
+Extreme Programming (XP) – é um método ágil criado no final da década de 90 para desenvolvimento de softwares. Tem como objetivo fazer ciclos de entregas rápidos, contínuos e incrementais, para alcançar os resultados que o cliente espera.
 
 Kanban – é um dos métodos mais utilizados em empresas em todos os segmentos devido sua simplicidade e benefícios trazidos por ele. É um método que define, gerencia e melhora serviços que entregam trabalho de conhecimento, como serviços profissionais, atividades criativas e o design de produtos físicos e de software. Baseia-se no Princípio Lean, que possui a meta de gerir o controle do estoque de materiais, ou seja, equilíbrio de estoque, de forma que nem faltem e nem sobrem produtos.
 
@@ -45,5 +45,6 @@ OKR – é um acrônimo para os 3 fundamentos deste método: Objectives, Key e Result
 Objectives – descrições qualitativas que mostram qual direção deverá ser seguida pela empresa;
 
 Key Results – metas, as quais vão indicar o atingimento do objetivo nesta metodologia.
+
 
 
